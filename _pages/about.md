@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 I am a pre phd student of the National Science Space Center of the Chinese Academy of Sciences My research interests include computer vision and magnetophysics.
 Mentor: Lei Dai
 

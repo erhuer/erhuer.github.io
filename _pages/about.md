@@ -55,4 +55,4 @@ Contact
 
 - I am very enthusiastic about discussing academic issues or any  interesting project-related topics!  If you'd like to engage in a  discussion or collaborate, feel free to contact me via email at any  time. 
 - If you're an undergraduate student feeling uncertain, especially  from a diverse background, and hope to gain some learning experiences  from me, I also warmly welcome that!
-- ✉️ [erhuer](mailto:erhuer@stu.utibet.edu.cn)
+- [Email] (Mailed to: erhuer@stu.utibet.edu.cn )

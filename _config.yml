@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "../images/原图-一寸白底-43kb.png"
+  avatar           : "原图-一寸白底-43kb.png"
   name             : "Xinlong Hu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
-  uri              : # URL
+  uri              : https://erhuer.github.io
   email            : "none@example.org" 
 
   # Academic websites

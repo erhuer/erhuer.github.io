@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "原图-一寸白底-43kb.png"
+  avatar           : "IDPhoto-43kb.png"
   name             : "Xinlong Hu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"

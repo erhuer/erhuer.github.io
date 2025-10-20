@@ -3,9 +3,9 @@ locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
 title                    : "ERHUER / RESEARCH LIFE OF PRE PHD!"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Xinlong Hu"
+description              : &description "Undergraduate of Xizang University, pre doctoral student of the nssc"   
+url                      : https://erhuer.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -17,7 +17,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Xinlong Hu"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "XiZang University"
   location         : "China BEIJING"
   employer         : "Lei Dai"
